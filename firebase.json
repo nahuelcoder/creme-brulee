@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "cremebrulee",
+    "public": "./",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
