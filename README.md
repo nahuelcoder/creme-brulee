@@ -2,4 +2,4 @@
 
 ## Pastelería artesanal
 
-![Web page](resources\img\Creme-brulee-landing-page.png)
+![Web page](resources\img\caption.png)
